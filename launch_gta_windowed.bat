@@ -1,0 +1,3 @@
+@echo off
+echo Lancement de GTA San Andreas en mode fenetre...
+start "" "C:\GAMES\GTA San Andreas\gta_sa.exe" -windowed
