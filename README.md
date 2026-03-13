@@ -20,8 +20,7 @@ Turn your head to move. Throw punches to fight. Just like real life.
 
 <div align="center">
 
-<!-- REPLACE with your actual demo GIF or screenshot -->
-![Demo](assets/demo.mp4)
+<video src="https://raw.githubusercontent.com/NdandaClaude/gta-gesture-control/main/assets/demo.mp4" controls autoplay muted loop width="600"></video>
 
 *Real-time gesture detection controlling GTA San Andreas*
 
