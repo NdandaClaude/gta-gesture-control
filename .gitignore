@@ -28,5 +28,6 @@ Desktop.ini
 
 # Vidéos de démo (trop volumineuses pour git)
 *.mp4
+*.gif
 *.avi
 *.mkv

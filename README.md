@@ -21,7 +21,7 @@ Turn your head to move. Throw punches to fight. Just like real life.
 <div align="center">
 
 <!-- REPLACE with your actual demo GIF or screenshot -->
-![Demo](assets/demo.gif)
+![Demo](assets/demo.mp4)
 
 *Real-time gesture detection controlling GTA San Andreas*
 
@@ -86,7 +86,7 @@ The script uses **two AI models** running in real-time on your webcam:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/gta-gesture-control.git
+git clone https://github.com/NdandaClaude/gta-gesture-control.git
 cd gta-gesture-control
 
 # Install dependencies
@@ -203,7 +203,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 <div align="center">
 
-**Made with 🎮 and 🤖**
+**Made by [NdandaClaude](https://github.com/NdandaClaude) with 🎮 and 🤖**
 
 *If you liked this project, give it a ⭐ on GitHub!*
 
