@@ -26,8 +26,7 @@ Thumbs.db
 Desktop.ini
 .DS_Store
 
-# Vidéos de démo (trop volumineuses pour git)
-*.mp4
+# Vidéos volumineuses (le demo.mp4 est petit, on le garde)
 *.gif
 *.avi
 *.mkv
